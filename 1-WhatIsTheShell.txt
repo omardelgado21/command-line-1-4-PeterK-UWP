@@ -1,1 +1,34 @@
 
+~/command-line-1-4-PeterK-UWP$ 
+~/command-line-1-4-PeterK-UWP$ date       Thu Feb  4 20:30:27 UTC 2021
+~/command-line-1-4-PeterK-UWP$ kaekfjaeifjbash: kaekfjaeifj: command not found
+~/command-line-1-4-PeterK-UWP$ cal
+   February 2021      
+Su Mo Tu We Th Fr Sa  
+    1  2  3  4  5  6  
+ 7  8  9 10 11 12 13  
+14 15 16 17 18 19 20  
+21 22 23 24 25 26 27  
+28                    
+                      
+~/command-line-1-4-PeterK-UWP$ df
+Filesystem             1K-blocks     Used Available Use% Mounted on
+overlay                101445540 86216444  15212712  86% /
+tmpfs                      65536        0     65536   0% /dev
+tmpfs                   13347328        0  13347328   0% /sys/fs/cgroup
+/dev/root              101445540 86216444  15212712  86% /inject
+tmpfs                    2669468    24984   2644484   1% /io
+shm                        65536        0     65536   0% /dev/shm
+tmpfs                   13347328        0  13347328   0% /tmp/.X11-unix
+devtmpfs                13343328        0  13343328   0% /dev/tty
+tmpfs                   13347328        0  13347328   0% /proc/acpi
+tmpfs                   13347328        0  13347328   0% /proc/scsi
+tmpfs                   13347328        0  13347328   0% /sys/firmware
+/dev/mapper/conman-340   1228800     1012   1223504   1% /home/runner/command-line-1-4-PeterK-UWP
+~/command-line-1-4-PeterK-UWP$ free
+              total        used        free      shared  buff/cache   available
+Mem:       26694660    17580404      778132       26496     8336124     9663424
+Swap:             0           0           0
+~/command-line-1-4-PeterK-UWP$ exit
+exit
+~/command-line-1-4-PeterK-UWP$ 
